@@ -18,7 +18,7 @@ body {
     align-items: center;
     flex-direction: column;
     gap: 30px;
-    background: #366971;
+    background: #366971e9;
     padding: 40px 60px;    
 }
 .container h2 {
